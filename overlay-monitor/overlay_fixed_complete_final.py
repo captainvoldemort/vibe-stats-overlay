@@ -496,8 +496,8 @@ class OverlayWindow(QWidget):
         """)
         about_html = """
         <h3>About</h3>
-        <p>Refined overlay app — live system metrics.</p>
-        <p><a href='https://yourwebsite.example'>Visit our website</a></p>
+        <p>Windows Laptop/PC Stats Monitor (Overlay) app — live system metrics.</p>
+        <p><a href='https://captainvoldemort.github.io/vibe-stats-overlay/'>Visit our website</a></p>
         """
         self.about_text.setHtml(about_html)
         about_layout.addWidget(self.about_text)
