@@ -1,4 +1,4 @@
-# Laptop Stats Monitor (Overlay) 🖥️
+# Windows Laptop/PC Stats Monitor (Overlay) 🖥️
 
 A sleek and lightweight system overlay built using **PyQt5** that displays **real-time CPU, RAM, Disk, GPU, and Network usage** — all in a compact, draggable, and themeable floating window.
 
