@@ -34,7 +34,7 @@ python overlay_fixed_complete_final.py
 ```
 ---
 ## 📸 Preview
-![Overlay Monitor Preview](docs/preview.png)
+![Overlay Monitor Preview](docs/preview1.png)
 ---
 ## 🧰 Built With
 
