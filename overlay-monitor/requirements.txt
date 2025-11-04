@@ -1,0 +1,4 @@
+PyQt5
+psutil
+GPUtil
+nvidia-ml-py3
