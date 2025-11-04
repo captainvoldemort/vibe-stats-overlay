@@ -38,13 +38,13 @@ python overlay_fixed_complete_final.py
 ---
 ## 🧰 Built With
 
--**Python 3.8+
+- **Python 3.8+**
 
--**PyQt5 for UI
+- **PyQt5 for UI**
 
--**psutil for system metrics
+- **psutil for system metrics**
 
--**pynvml / GPUtil for GPU info
+- **pynvml / GPUtil for GPU info
 ---
 ## 🌐 Project Website
 
