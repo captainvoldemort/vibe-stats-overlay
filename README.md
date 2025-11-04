@@ -48,5 +48,5 @@ python overlay_fixed_complete_final.py
 ---
 ## 🌐 Project Website
 
-👉 [Visit](https://github.com/captainvoldemort/vibe-laptop-stats-overlay)
+👉 [Visit](https://captainvoldemort.github.io/vibe-stats-overlay/)
 ---
